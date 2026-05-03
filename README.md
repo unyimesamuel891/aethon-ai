@@ -4,8 +4,6 @@
 
 **[Live Site →](https://duncan-studio-kohl.vercel.app/)**
 
-![Duncan Studio Preview](preview.png)
-
 ---
 
 ## What It Is
